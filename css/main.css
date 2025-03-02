@@ -1,0 +1,89 @@
+body {
+    background-color: black;
+    line-height: 13px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Diplomata SC", serif;
+    color: #9AAB89;
+    font-size: 120px
+}
+
+h1.news {
+    text-align: center;
+    font-family: "Diplomata SC", serif;
+    color: #9AAB89;
+    font-size: 75px
+}
+
+h2 {
+    text-align: center;
+    font-family: "Special Elite", system-ui;
+    color: #9AAB89;
+    font-size: 20px
+}
+
+h3 {
+    text-align: center;
+    font-family: "Special Elite", system-ui;
+    color: #9AAB89;
+    font-size: 12px
+}
+
+h4 {
+    text-align: center;
+    font-family: "Diplomata SC", serif;
+    color: #9AAB89;
+    font-size: 30px
+}
+
+div.navigation {
+    width: 99%;
+    height: 75px;
+    text-align: center;
+}
+
+button.navbutton {
+    background-color: black;
+    color: #9AAB89;
+    border-style: none;
+    font-family: "Diplomata SC", serif;
+    font-size: 20px;
+}
+
+button.navbutton:hover {
+    background-color: black;
+    color: #9AAB89;
+    text-decoration: underline;
+    border-style: none;
+    font-family: "Diplomata SC", serif;
+    font-size: 20px;
+}
+
+p1 {
+    display: flex;
+    justify-content: center;
+    font-family: "Special Elite", system-ui;
+    color: #9AAB89;
+    font-size: 25px
+}
+
+p2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: "Special Elite", system-ui;
+    color: #9AAB89;
+    font-size: 20px
+}
+
+button.link {
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Special Elite", system-ui;
+    color: #b0bea2;
+    background-color: black;
+    border-style: none;
+    font-size: 20px
+}
