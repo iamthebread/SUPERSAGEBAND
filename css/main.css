@@ -7,31 +7,42 @@ h1 {
     text-align: center;
     font-family: "Diplomata SC", serif;
     color: #9AAB89;
-    font-size: 120px
+    font-size: 7vw;
 }
 
 h1.news {
     text-align: center;
     font-family: "Diplomata SC", serif;
     color: #9AAB89;
-    font-size: 75px
+    font-size: 7vw;
+    line-height: 6vw;
 }
 
 h2 {
     text-align: center;
     font-family: "Special Elite", system-ui;
     color: #9AAB89;
-    font-size: 20px
+    font-size: 1.5vw;
+    line-height: 3vw;
 }
 
 h3 {
     text-align: center;
     font-family: "Special Elite", system-ui;
     color: #9AAB89;
-    font-size: 12px
+    font-size: 1vw
+}
+
+h5 {
+    margin-bottom: 2vw;
+    text-align: center;
+    font-family: "Special Elite", system-ui;
+    color: #9AAB89;
+    font-size: 1vw
 }
 
 h4 {
+    line-height: 2.5vh;
     text-align: center;
     font-family: "Diplomata SC", serif;
     color: #9AAB89;
@@ -70,6 +81,7 @@ p1 {
 }
 
 p2 {
+    line-height: 1.5vh;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -85,5 +97,5 @@ button.link {
     color: #b0bea2;
     background-color: black;
     border-style: none;
-    font-size: 20px
+    font-size: 1vw
 }
